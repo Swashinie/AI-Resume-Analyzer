@@ -86,8 +86,6 @@ Upload a PDF resume and job description
 
 Get instant AI-powered analysis!
 
-🏗️ Project Structure
-text
 ai-resume-analyzer/
 ├── 📁 data/                     # Training data and job descriptions
 │   ├── resume_texts.csv         # Processed resume dataset (2,483+ entries)
@@ -106,6 +104,8 @@ ai-resume-analyzer/
 ├── 📄 batch_processor.py       # Bulk resume processing
 ├── 📄 requirements.txt         # Python dependencies
 └── 📄 README.md               # Project documentation
+
+
 🎮 Usage Guide
 Single Resume Analysis
 Navigate to the Upload tab
