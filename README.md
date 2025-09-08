@@ -1,9 +1,9 @@
-AI Resume Analyzer
-Smarter Resumes. Faster Hiring.
+**AI Resume Analyzer**_
+_Smarter Resumes. Faster Hiring._
 
 A production-ready AI-powered resume screening and analysis system that leverages state-of-the-art BERT models to automate recruitment workflows. Built for HR professionals, recruiters, and hiring managers who need intelligent candidate screening at scale.
 
-🚀 Features
+🚀 **Features**
 Core AI Capabilities
 🤖 BERT-Powered Classification: 24-category job classification with 93%+ accuracy
 
@@ -15,7 +15,7 @@ Core AI Capabilities
 
 🎯 Intelligent Screening Pipeline: Multi-factor candidate assessment algorithm
 
-Professional Web Interface
+**Professional Web Interface**
 🎨 Modern UI/UX: Glassmorphism design with gradient backgrounds and smooth animations
 
 📱 Responsive Design: Mobile-first approach with collapsible navigation
@@ -26,7 +26,7 @@ Professional Web Interface
 
 ⚡ Real-time Processing: Cached models for instant analysis results
 
-Enterprise Features
+**Enterprise Features**
 📦 Batch Processing: Screen hundreds of resumes simultaneously
 
 📋 Detailed Reports: Exportable CSV reports with comprehensive candidate insights
