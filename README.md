@@ -86,24 +86,9 @@ Upload a PDF resume and job description
 
 Get instant AI-powered analysis!
 
-ai-resume-analyzer/
-├── 📁 data/                     # Training data and job descriptions
-│   ├── resume_texts.csv         # Processed resume dataset (2,483+ entries)
-│   ├── job_descriptions.csv     # Job posting database
-│   └── screening_results.csv    # Batch processing outputs
-├── 📁 models/                   # Trained AI models
-│   ├── best_model.pth          # BERT classifier (24 categories)
-│   └── label_encoder.pkl       # Category label mappings
-├── 📁 utils/                    # Core utilities
-│   ├── dataset.py              # PyTorch dataset classes
-│   ├── similarity_utils.py     # BERT embedding functions
-│   └── preprocessing.py        # Text processing pipeline
-├── 📄 web_app.py               # Main Streamlit application
-├── 📄 train.py                 # Model training script
-├── 📄 screening_pipeline.py    # Core analysis pipeline
-├── 📄 batch_processor.py       # Bulk resume processing
-├── 📄 requirements.txt         # Python dependencies
-└── 📄 README.md               # Project documentation
+Structure
+
+<img width="914" height="540" alt="image" src="https://github.com/user-attachments/assets/9380317e-825f-431b-a6d3-fc3aa01196ae" />
 
 
 🎮 Usage Guide
