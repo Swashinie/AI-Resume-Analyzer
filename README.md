@@ -42,7 +42,7 @@ Quick Start
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/ai-resume-analyzer.git
+git clone https://github.com/Swashinie/ai-resume-analyzer.git
 cd ai-resume-analyzer
 Create virtual environment
 
