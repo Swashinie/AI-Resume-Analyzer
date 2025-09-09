@@ -163,6 +163,16 @@ Development Setup
 	GPU memory requirements scale with batch processing size
 	Model retraining required for new job categories
 
+Output (Screenshots)
+<img width="1914" height="946" alt="Screenshot 2025-09-09 202312" src="https://github.com/user-attachments/assets/f6a0dcbb-e6fd-4115-aa38-0dd481d7724f" />
+<img width="1890" height="927" alt="Screenshot 2025-09-09 202331" src="https://github.com/user-attachments/assets/0655ec33-2815-4584-9f3b-4fff0ad3e521" />
+
+<img width="1825" height="1021" alt="Screenshot 2025-09-09 203131" src="https://github.com/user-attachments/assets/f2a04e88-7d7e-4199-ad16-983320e636bd" />
+<img width="1898" height="1031" alt="Screenshot 2025-09-09 203152" src="https://github.com/user-attachments/assets/7dc04618-5ef0-456e-b579-b066daaf3117" />
+<img width="1910" height="1020" alt="Screenshot 2025-09-09 203223" src="https://github.com/user-attachments/assets/19a5b319-93ec-49fb-bcc0-77fa06b51032" />
+<img width="1911" height="1024" alt="Screenshot 2025-09-09 203247" src="https://github.com/user-attachments/assets/88c41fa2-5146-421e-a917-16f9b1db7284" />
+
+
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
