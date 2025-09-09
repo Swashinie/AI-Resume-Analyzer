@@ -5,33 +5,33 @@ A production-ready AI-powered resume screening and analysis system that leverage
 
 🚀 Features
 Core AI Capabilities
-•	🤖 BERT-Powered Classification: 24-category job classification with 93%+ accuracy
-•	🔍 Semantic Job Matching: Advanced similarity scoring using transformer embeddings
-•	⚡ GPU Acceleration: 10-20x faster training and inference with CUDA support
-•	📊 ATS Compatibility Scoring: Industry-standard applicant tracking system evaluation
-•	🎯 Intelligent Screening Pipeline: Multi-factor candidate assessment algorithm
+1.	🤖 BERT-Powered Classification: 24-category job classification with 93%+ accuracy
+2.	🔍 Semantic Job Matching: Advanced similarity scoring using transformer embeddings
+3.	⚡ GPU Acceleration: 10-20x faster training and inference with CUDA support
+4.	📊 ATS Compatibility Scoring: Industry-standard applicant tracking system evaluation
+5.	🎯 Intelligent Screening Pipeline: Multi-factor candidate assessment algorithm
 
 Professional Web Interface
-•	🎨 Modern UI/UX: Glassmorphism design with gradient backgrounds and smooth animations
-•	📱 Responsive Design: Mobile-first approach with collapsible navigation
-•	📈 Interactive Charts: Real-time Plotly visualizations for scores and metrics
-•	🏷️ Smart Badges: Gamified strengths/weaknesses analysis with tooltips
-•	⚡ Real-time Processing: Cached models for instant analysis results
+1.	🎨 Modern UI/UX: Glassmorphism design with gradient backgrounds and smooth animations
+2.	📱 Responsive Design: Mobile-first approach with collapsible navigation
+3.	📈 Interactive Charts: Real-time Plotly visualizations for scores and metrics
+4.	🏷️ Smart Badges: Gamified strengths/weaknesses analysis with tooltips
+5.	⚡ Real-time Processing: Cached models for instant analysis results
 
 Enterprise Features
-•	📦 Batch Processing: Screen hundreds of resumes simultaneously
-•	📋 Detailed Reports: Exportable CSV reports with comprehensive candidate insights
-•	🔄 Production Ready: Scalable architecture with error handling and optimization
-•	🛡️ Robust Pipeline: End-to-end ML workflow from PDF extraction to hiring recommendations
+1.	📦 Batch Processing: Screen hundreds of resumes simultaneously
+2.	📋 Detailed Reports: Exportable CSV reports with comprehensive candidate insights
+3.	🔄 Production Ready: Scalable architecture with error handling and optimization
+4.	🛡️ Robust Pipeline: End-to-end ML workflow from PDF extraction to hiring recommendations
 
 🛠️ Tech Stack
-Component	Technology
-Frontend	Streamlit, HTML5, CSS3, JavaScript
-Backend	Python 3.8+, PyTorch 2.0+
-AI/ML	BERT (Transformers), Scikit-learn, CUDA
-Visualization	Plotly, Pandas
-Document Processing	PyPDF2, NLTK
-Deployment	Streamlit Cloud, Docker Ready
+1.	Component	Technology
+2.	Frontend	Streamlit, HTML5, CSS3, JavaScript
+3.	Backend	Python 3.8+, PyTorch 2.0+
+4.	AI/ML	BERT (Transformers), Scikit-learn, CUDA
+5.	Visualization	Plotly, Pandas
+6.	Document Processing	PyPDF2, NLTK
+7.	Deployment	Streamlit Cloud, Docker Ready
 📦 Installation
 Prerequisites 
 1.	Python 3.8 or higher
@@ -67,42 +67,42 @@ bash
 streamlit run web_app.py
 
 Access the app
-o	Open your browser to http://localhost:8501
-o	Upload a PDF resume and job description
-o	Get instant AI-powered analysis!
+1.	Open your browser to http://localhost:8501
+2.	Upload a PDF resume and job description
+3.	Get instant AI-powered analysis!
 
-**Structure**
+Structure
 
 <img width="914" height="540" alt="image" src="https://github.com/user-attachments/assets/9380317e-825f-431b-a6d3-fc3aa01196ae" />
 
 
 🎮 Usage Guide
 Single Resume Analysis
-Navigate to the Upload tab
-Upload a PDF resume (drag & drop supported)
-Paste the target job description
-Click Analyze for instant results
-Review ATS score, category prediction, and recommendations
+1.	Navigate to the Upload tab
+2.	Upload a PDF resume (drag & drop supported)
+3.	Paste the target job description
+4.	Click Analyze for instant results
+5.	Review ATS score, category prediction, and recommendations
 
 Batch Processing
-Go to Reports tab
-Upload multiple PDF resumes
-Provide a single job description for comparison
-Download comprehensive screening report as CSV
+1.	Go to Reports tab
+2.	Upload multiple PDF resumes
+3.	Provide a single job description for comparison
+4.	Download comprehensive screening report as CSV
 
 Key Metrics Explained
-•	ATS Score: Overall compatibility (0-100%)
-•	Category Confidence: Model certainty in job classification
-•	Semantic Similarity: Resume-job description match using AI
-•	Screening Score: Weighted final recommendation score
+1.	ATS Score: Overall compatibility (0-100%)
+2.	Category Confidence: Model certainty in job classification
+3.	Semantic Similarity: Resume-job description match using AI
+4.	Screening Score: Weighted final recommendation score
 
 📊 Performance Benchmarks
-•	Metric	Value
-•	Training Dataset	2,483 resumes across 24 categories
-•	Classification Accuracy	93.08% on test data
-•	Average Processing Time	<2 seconds per resume (GPU)
-•	Similarity Scoring Range	0.599 - 0.758 (semantic matching)
-•	Supported File Types	PDF (text-extractable)
+1.	Metric	Value
+2.	Training Dataset	2,483 resumes across 24 categories
+3.	Classification Accuracy	93.08% on test data
+4.	Average Processing Time	<2 seconds per resume (GPU)
+5.	Similarity Scoring Range	0.599 - 0.758 (semantic matching)
+6.	Supported File Types	PDF (text-extractable)
 
 🎯 Use Cases
 1.	HR Departments: Automate initial resume screening and candidate ranking
@@ -112,11 +112,11 @@ Key Metrics Explained
 5.	Hiring Managers: Get AI-powered insights for faster decision making
 
 🚀 Deployment
-•	Streamlit Cloud (Recommended)
-•	Push code to GitHub repository
-•	Connect to share.streamlit.io
-•	Deploy with one click
-•	Share public URL with your team
+1.	Streamlit Cloud (Recommended)
+2.	Push code to GitHub repository
+3.	Connect to share.streamlit.io
+4.	Deploy with one click
+5.	Share public URL with your team
 
 Docker Deployment
 bash
@@ -137,47 +137,47 @@ streamlit run web_app.py --server.enableCORS false --server.enableXsrfProtection
 We welcome contributions! Please see our Contributing Guidelines for details.
 
 Development Setup
-o	Fork the repository
-o	Create a feature branch (git checkout -b feature/amazing-feature)
-o	Make your changes
-o	Add tests for new functionality
-o	Commit changes (git commit -am 'Add amazing feature')
-o	Push to branch (git push origin feature/amazing-feature)
-o	Open a Pull Request
+1.	Fork the repository
+2.	Create a feature branch (git checkout -b feature/amazing-feature)
+3.	Make your changes
+4.	Add tests for new functionality
+5.	Commit changes (git commit -am 'Add amazing feature')
+6.	Push to branch (git push origin feature/amazing-feature)
+7.	Open a Pull Request
 
 📈 Roadmap
- Multi-language Support: Expand beyond English resumes
- Advanced Analytics: Industry benchmarking and trends
- API Integration: REST API for enterprise systems
- Enhanced NLP: Fine-tuned models for specific industries
- Real-time Collaboration: Multi-user screening workflows
- Mobile App: Native iOS/Android applications
+1.	Multi-language Support: Expand beyond English resumes
+2.	Advanced Analytics: Industry benchmarking and trends
+3.	API Integration: REST API for enterprise systems
+4.	Enhanced NLP: Fine-tuned models for specific industries
+5.	Real-time Collaboration: Multi-user screening workflows
+6.	Mobile App: Native iOS/Android applications
 
 🐛 Known Issues & Limitations
-PDF text extraction quality depends on document formatting
-BERT model performance varies by industry-specific terminology
-GPU memory requirements scale with batch processing size
-Model retraining required for new job categories
+	PDF text extraction quality depends on document formatting
+	BERT model performance varies by industry-specific terminology
+	GPU memory requirements scale with batch processing size
+	Model retraining required for new job categories
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🙏 Acknowledgments
-Hugging Face Transformers - BERT model implementation
-Streamlit Team - Excellent web app framework
-PyTorch Community - Deep learning infrastructure
-Contributors - Everyone who helped improve this project
+1.	Hugging Face Transformers - BERT model implementation
+2.	Streamlit Team - Excellent web app framework
+3.	PyTorch Community - Deep learning infrastructure
+4.	Contributors - Everyone who helped improve this project
 
 📞 Support
-Documentation: Wiki
-Issues: GitHub Issues
-Discussions: GitHub Discussions
-Email: swashinier@gmail.com
+	Documentation: Wiki
+	Issues: GitHub Issues
+	Discussions: GitHub Discussions
+	Email: swashinier@gmail.com
 
 <div align="center">
-Built with ❤️ by SWASHINIE 
+Built with ❤️ by SWASHINIE ☺️
 
 ⭐ Star this repo if it helped you! ⭐
 
 </div>
-This project demonstrates the power of AI in transforming recruitment workflows. From PDF extraction to intelligent candidate ranking, every component is designed for production use at enterprise scale.
+
