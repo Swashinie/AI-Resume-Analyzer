@@ -54,6 +54,10 @@ python -m venv .venv
 source .venv/bin/activate
 Install dependencies
 
+
+**NOTE: DOWNLOAD DATASETS FROM KAGGLE**
+
+
 bash
 pip install -r requirements.txt
 Download pre-trained models
